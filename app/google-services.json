@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118971064016",
+    "project_id": "artfinder-44b61",
+    "storage_bucket": "artfinder-44b61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118971064016:android:c6945fe3c927f1556508d5",
+        "android_client_info": {
+          "package_name": "com.example.artfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSZpOtERjGcJxZrS_1qaYi-eQplX6tBVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
