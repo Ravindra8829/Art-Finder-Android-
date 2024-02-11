@@ -46,6 +46,4 @@ Seller:-
 5. Order Management
 ## Deployment
 
-To deploy this project run
-
-Just Pull the project and open in Android Studio and wait until project load completly. after that just run the project and if you want the database than make an account on the google firebase console and connect the database with the art finder project.
+To deploy this project run Just Pull the project and open in Android Studio and wait until project load completly. after that just run the project and if you want the database than make an account on the google firebase console and connect the database with the art finder project.
